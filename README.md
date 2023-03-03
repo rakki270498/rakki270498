@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakki270498
 - 👀 I’m interested in Positive Energy Buildings and Districts
-- 🌱 I’m currently learning MPC integration to buildings on TRNSYS
+- 🌱 I’m currently learning MPC integration to buildings on IDA ICE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rakki2798 in LinkedIn
 
